@@ -1,6 +1,6 @@
 # fractal_explorer
 
-Small C program to visualize and explore Mandelbrot, Julia and Burning Ship fractals. Edit
+Small C program to visualize and explore Mandelbrot, Julia and Burning Ship fractals.
 
 ## Libraries
 
